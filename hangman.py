@@ -1,6 +1,6 @@
 import random
 
-answerlist = ["world", "look", "hello", "goodbye"]
+answerlist = ["cole", "liam", "zack"]
 
 random.shuffle(answerlist)
 
